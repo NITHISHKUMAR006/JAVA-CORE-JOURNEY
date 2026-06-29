@@ -133,7 +133,7 @@ Java-Core-Journey/
 
 | Topic | Status |
 |--------|--------|
-| Java Basics | ✅ |
+| Java Basics | ⬜ |
 | Control Statements | ⬜ |
 | Methods | ⬜ |
 | Arrays | ⬜ |
